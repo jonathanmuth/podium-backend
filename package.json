@@ -1,8 +1,8 @@
 {
-  "name": "Agnes",
+  "name": "Podium Backend",
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "git://github.com/jonathanmuth/podium-backend.git"
   },
   "version": "0.1.0",
   "devDependencies": {
