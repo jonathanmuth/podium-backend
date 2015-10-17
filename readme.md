@@ -1,7 +1,7 @@
 # Podium Backend
 
 This is the first implementation of a potential backend for the Podium-App.
-It is based on the commercial CMS Kirby <http://getkirby.com> and was implemented in a nightshift by Jonathan Muth.
+It is based on the commercial CMS Kirby (<http://getkirby.com>) and was implemented in a nightshift by Jonathan Muth.
 
 In order to use this API in production you need to buy a Commercial License for Kirby. It can be obtained over at <http://getkirby.com/buy>.
 
