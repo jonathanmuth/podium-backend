@@ -12,6 +12,6 @@ To run the API all you need is a PHP server. For everyone's convenience I have i
 Just follow these instructions
 
 1. Download Node.js for your operating system and install it.
-2. Run 'npm install' from the document root.
-3. Type 'gulp' into your Terminal/Command Line and the site will open as soon as the PHP server is up and running.
+2. Run `npm install` from the document root.
+3. Type `gulp` into your Terminal/Command Line and the site will open as soon as the PHP server is up and running.
 4. Follow the instructions in the browser.
