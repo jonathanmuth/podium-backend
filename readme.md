@@ -15,3 +15,8 @@ Just follow these instructions
 2. Run `npm install` from the document root.
 3. Type `gulp` into your Terminal/Command Line and the site will open as soon as the PHP server is up and running.
 4. Follow the instructions in the browser.
+
+## Screenshots
+
+![Alt text](/assets/images/panel-screenshot.png?raw=true "Admin-Panel Screenshot")
+![Alt text](/assets/images/panel-screenshot.png?raw=true "JSON-API Screenshot")
