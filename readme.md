@@ -19,4 +19,4 @@ Just follow these instructions
 ## Screenshots
 
 ![Alt text](/assets/images/panel-screenshot.png?raw=true "Admin-Panel Screenshot")
-![Alt text](/assets/images/panel-screenshot.png?raw=true "JSON-API Screenshot")
+![Alt text](/assets/images/api-screenshot.png?raw=true "JSON-API Screenshot")
