@@ -82,10 +82,10 @@ gulp.task( 'deploy', function() {
 
     function sftpOpts(path) {
       return {
-          host: "dev.jonathanmuth.com",
-          user: "root",
-          password: "odroid",
-          remotePath: "/var/www/" + (path || "")
+          host: "",
+          user: "",
+          password: "",
+          remotePath: "" + (path || "")
       };
     }
 
