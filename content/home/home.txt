@@ -1,1 +1,8 @@
-Title: Home
+Title: Podium-API
+
+----
+
+Text:
+
+The API is available (link: /api text: HERE).
+The Admin-Panel can be accessed (link: /panel text: HERE)
